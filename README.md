@@ -1,2 +1,2 @@
-ascii-graphics-toolkit
+ascii-toolkit
 ======================
